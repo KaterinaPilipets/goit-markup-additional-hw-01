@@ -1,0 +1,15 @@
+:root {
+  --color-bg-top: #ffffff;
+  --color-bg-secondary: #f5f5f5;
+  --color-bg-btn: #263238;
+  --color-bg-price: #eeeeee;
+}
+/* секции в скилс
+border-radius: 10px; */
+
+/* кнопка героя и контакты
+background: #263238;
+border-radius: 10px;
+цена
+background: #EEEEEE;
+border-radius: 5px; */
